@@ -8,6 +8,8 @@ This is the Module 19 Challenge for the boot camp. The project has been built fr
 
 Link to Deployment: https://jatedit-382fdc6e57ba.herokuapp.com/
 
+![Screenshot-J A T E](https://github.com/jef1197/Just-Another-Text-Editor/assets/48005017/561c7f34-ae6e-4600-b7bd-968a671c9d92)
+
 ## Usage
 
 1. Open disered web browser and go to the link
